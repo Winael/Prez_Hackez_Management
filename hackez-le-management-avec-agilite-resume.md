@@ -181,11 +181,181 @@ Un manager paternaliste :
 - témoigne de bienveillance à l’égard de ses subordonnés
 - leur impose une entière obéissance. 
 
-Ce type de manager traite individuellement chacun de ses subordonnés, 
-ceux-ci ne négocient pas du tout entre eux. 
+Ce type de manager traite individuellement chacun de ses subordonnés, ceux-ci ne négocient pas du tout entre eux. 
 
-Moyen de management satisfait les besoins matériels des employés, 
-désavantage d’opprimer leur liberté.
+Moyen de management :
+- satisfait les besoins matériels des employés, 
+- désavantage d’opprimer leur liberté.
 
+#### Le style démocratique ou altruiste (9,9)
+
+Le manager démocratique incite ses subordonnés à prendre part au processus décisionnel. 
+
+Le manager véritablement démocrate :
+- évite d’imposer ses idées
+- discute avec ses subordonnés avant de prendre une décision. 
+- privilégie une communication bidirectionnelle :
+- délègue son autorité à ses subordonnés;
+- fait participer ceux-ci à la prise de décision;
+- laisse les employés libres de faire le travail à leur façon.
+
+Le gestionnaire démocrate :
+- s’intéresse à l’aspect humain 
+- à la tâche à accomplir 
+- s’efforce de créer un climat de confiance
+- fait prévaloir le travail en équipe, 
+- favorise le développement personnel de ses subordonnés 
+- leur apporte une aide morale.
+
+## Etre Heureux au travail, Vraiment ?
+
+### Happiness = Bonheur, mais c'est quoi le bonheur ?
+
+Le bonheur :
+- état de satisfaction complète 
+- caractérisé :
+  - par sa stabilité 
+  - sa durabilité. 
+
+Suffit pas de ressentir un bref contentement pour être heureux. 
+Une joie intense n’est pas le bonheur. Un plaisir éphémère non plus. 
+
+**Le bonheur est un état global.** 
+
+L’homme heureux :
+- comblé
+- forme de plénitude
+- situation est stable : 
+  - équilibre 
+  - seul un élément extérieur pourrait la modifier.
+
+### Bien-être
+
+_« Bien-être : état agréable résultant de la satisfaction des besoins du corps et du calme de l'esprit »_ (Larousse)
+
+Le « bien-être au travail » :
+- renvoie aux attentes de l’individu en termes de santé ou de confort
+- notion qui dépasse la sphère strictement professionnelle.
+
+Souvent le fruit de bonnes volontés managériales pour apporter du conforts à leurs collaborateurs
+
+### Qualité de vie au travail
+
+_« Qualité de vie : tout ce qui contribue à créer des conditions propres à épanouir davantage l'individu ; ces conditions elles-mêmes »_ **(Larousse)**
+
+Selon l’Anact (Agence Nationale pour l'Amélioration de Conditions de Travail), la QVT 
+- « perception » résultant des « conditions :
+  - dans lesquelles les salariés exercent leur travail 
+  - [de] leur capacité à s’exprimer 
+  - agir sur le contenu de celui-ci ». 
+
+QVT :
+- « désigne et regroupe actions qui permettent de concilier :
+  - amélioration des conditions de travail pour les salariés 
+  - performance globale des entreprises
+  - contrairement au bonheur ou au bien-être, pas un état personnel
+  - perception, liée à des conditions extérieures. 
+  - ressort de l’entreprise.
+
+Pour QVT cœur identité entreprise, choix proactif : 
+- s’engager dans une démarche de « transformation culturelle » à tous les niveaux, 
+  - impliquant les collaborateurs pour les rendre acteurs de ce projet collectif. 
+- impulsée au plus haut niveau de décision. 
+- pas de recette magique : 
+  - juste la volonté forte/solide/enracinée de devenir/rester « organisation où il fait bon travailler ».
+
+## Méthodes à Gilles VS Agilité
+
+### Fake Agile
+
+Méthodes Agiles : Faute de français
+
+Vendues comme des méthodes magiques pour maximiser la réussite de tous les projets de developpement de manière quasi-instantanée
+
+Meme sans spec précises (t'façon on est agile)
+
+Méthodes A Gillou (Vu à la TV ou presque)
+
+**=> Fake Agile**
+
+### C'est quoi l'Agilité ?
+
+- Un Manifeste datant de 2001
+- Signé par 17 signataires
+- Regroupant :
+  - 4 valeurs
+  - 12 principes
+  - Beaucoup de bon sens
+
+#### Valorisation
+
+#### Principes
+
+#### Esprit Agile
+
+Carrefour:
+- Agilité Sociale + Agilité Cognitive = Communication et réseautage professionnel
+- Agilité Cognitive + Agilité Personnelle et Professionnelle = Pensée Analytique et divergente
+- Agilité Personnelle et Professionnelle + Agilité au changement = Réflexion et Adaptation
+- Agililé au Changement + Agilité Sociale = Innovation et Collaboration 
+
+### Modern Agile
+
+Créé par Joshua Kerievsky, CEO Industrial Logic
+
+Evolution par rapport au Manifeste Agile, pour être plus large
+
+4 princicpes d'apparence simple, mais plus complexe sous la surface
+
+1) Make --> People --> Awesome
+2) Mae Sefety a Prerequisite : 
+  - Sécurité : Accidents, actes involontaires
+  - Sûreté : Actes malveillants, Actes volontaires, incivilités
+  **--> Droit à l'erreur**
+3) Expérimenter et apprendre rapidement. Echouer progresser, s'améliorer
+4) Apporter de la valeur en continue pour rendre les gens de plus en plus incroyablement incoryable
+
+### Heart of Agile
+
+Créé par Alistair Cockburn
+
+Idée du Manifeste simple, mais Agile s'est compliqué --> devenue industrie complete
+
+Revenir aux fondamentaux, à l'essence :
+
+- Collaborer
+- Livrer
+- Réfléchir
+- Améliorer
+
+Après Shu (Protéger/Obeir) Ha (Détacher/S'écarter) Ri (Transcendance) vient le coeur, l'essence, Kokoro.
+
+Exemple de développement de Heart of Agile
+
+- Heart of Agile = revient aux bases d'Agile 
+- Modern Agile = version évoluée d'Agile.
+
+Heart of Agile et Modern Agile = deux des concepts inspirants, ramènent "Agile", cœur du concept :
+- perspective différente.
+- ne s'excluent pas mutuellement 
+- peuvent travailler ensemble.
+
+Les principes Modern Agile --> aider à identifier les sujets à améliorer
+Heart of Agile --> guider sur cette voie de l'amélioration.
+
+## Mutation des organisations
+
+### Principe de la rétroviralité endogène
+
+La science de l'évolution :
+- partie de notre patrimoine génétique --> virus. 
+- reprodroduction certains virus, utilisent la reproduction cellulaire des hôtes --> infection code ADN. - laissent des traces qui provoquent des mutations sur les gênes.
+
+Nombreuses des évolutions de toutes espèces confondues sont moins due au hasard, qu'à des infections vir
+ales.
+
+### Retroviralité des tentatives de changements organisationnels : Changer l'ADN des entreprises
+
+Et si on infectait le management des entreprises via des initiatives Agiles ?
 
 

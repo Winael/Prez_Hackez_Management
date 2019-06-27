@@ -139,8 +139,38 @@ Pour ancrer la qualité de vie au travail au cœur de son identité, une organis
 
 ### ModernAgile, HeartOfAgile Management 3.0
 
-Modern Agile, created by Joshua Kerievsky
-Heart of Agile, created by Alistair Cockburn
+#### Modern Agile
+
+Modern Agile (http://modernagile.org/) est créé par Joshua Kerievsky, également un nom bien connu dans le monde de l'Agile. La raison pour laquelle Modern Agile a émergé est que le Manifeste Agile a été important, mais le monde a changé depuis 2001. Modern Agile est un concept qui prend en compte de nombreux domaines différents, pas seulement le développement de logiciels. Il peut même être appliqué dans des organisations sans développement logiciel. Il se compose de quatre principes :
+Rendre les gens géniaux
+Offrir de la valeur en permanence
+Faire de la sécurité une condition préalable
+Expérimenter et apprendre rapidement
+
+Modern Agile est une façon de réfléchir sur votre état d'être sur un principe, de déterminer ce qu'il faut réaliser et les actions à exécuter pour atteindre les objectifs. Les quatre principes de Modern Agile sont également faciles à comprendre avec beaucoup de choses sous la surface. Il y a beaucoup d'éléments à trouver sous chaque principe.
+
+#### Heart of Agile
+
+Heart of Agile (http://heartofagile.com) est créé par Alistair Cockburn. En tant qu'un des auteurs du Manifeste Agile (en 2001), il n'a probablement pas besoin d'être présenté davantage.
+Son point de vue est que l'idée même du Manifeste Agile est simple. Mais depuis 2001 Agile est devenu de plus en plus compliqué, de plus en plus de choses y ont été mises. Agile est devenue une industrie complète.
+Heart of Agile dit que nous devrions retourner à l'essence, qui est de quatre mots :
+Collaborer
+Livrer
+Réfléchir
+Améliorer
+
+Heart of Agile est considéré comme l'état final de Shuhari, un concept japonais d'art martial. Voir ci-dessous la description de Shurari par Wikipédia :
+shu "protéger", "obéir" - sagesse traditionnelle - apprentissage des fondamentaux, techniques, heuristique, proverbes
+ha "détacher", "s'écarter" - rompre avec la tradition - se détacher des illusions du moi
+ri "leave", "separate" - transcendance - il n'y a pas de techniques ou de proverbes, tous les mouvements sont naturels, devenant un avec l'esprit seul sans s'accrocher aux formes ; transcendant le physique
+Shuhari est au-delà de chaque boîte du Coeur de l'Agilité. Voici un peu plus à ce sujet :
+Shuhari - la route japonaise vers la maîtrise
+De la cérémonie du thé au Coeur d'Agile
+medium.com
+Alistair Cockburn note qu'après "Ri" les vrais maîtres entrent dans le cœur, l'essence. Cockburn décrit cela comme "Kokoro" : Coeur. Dans ce cas, le Coeur de l'Agilité.
+Vous pouvez développer les boîtes de Coeur d'Agilité, dont ceci est un exemple tiré du site Web Coeur d'Agilité :
+
+Cœur d'Agilité n'est donc que quatre mots, mais derrière chaque boîte, il y a beaucoup à explorer.
 
 Heart of Agile revient aux bases d'Agile tandis que Modern Agile prétend être une version évoluée d'Agile.
 Il y a aussi une différence sur le plan pratique : 
@@ -156,6 +186,10 @@ Les principes Modern Agile peuvent vous aider à identifier les sujets à améli
 ## Mutation des organisations
 
 ### Principe de la rétroviralité endogène
+
+La science de l'évolution nous a appris qu'une partie de notre patrimoine génétique, nous le devons... aux virus. Certains virus, pour se reproduire, utilisent la reproduction cellulaire des hôtes en infectant leur code ADN. Mais ce faisant ils laissent des traces qui provoquent des mutations sur les gênes.
+
+Nombreuses des évolutions de toutes espèces confondues sont moins due au hasard, qu'à des infections virales.
 
 ### Retroviralité des tentatives de changements organisationnels : Changer l'ADN des entreprises
 
